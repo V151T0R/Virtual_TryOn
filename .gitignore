@@ -1,0 +1,6 @@
+**/Dataset/
+**/Checkpoints(UNet[2])/Best_model/
+**/Checkpoints(UNet[1])/Best_model/
+**/Image_Gen/
+**/test_img/
+**/Trained_model/
