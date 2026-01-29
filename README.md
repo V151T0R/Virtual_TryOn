@@ -32,10 +32,10 @@ The model is trained and evaluated on the **VITON-HD dataset**.
 - U-Net encoder–decoder with skip connections  
 - Self-Excitation (SE) blocks for channel attention  
 - Two-stage pipeline: segmentation followed by translation  
+
 <p align="center">
   <img src="Images/Model architecture (1).png" width="600"/>
   <img src="Images/simplerdia.png" width="600"/>
-
 </p>
 
 ---
@@ -86,7 +86,6 @@ Some challenging examples where misalignment or texture distortion occurs.
 
 <p align="center">
   <img src="Images/Abnormalities.png" width="250"/>
-  
 </p>
 
 ---
@@ -103,10 +102,10 @@ Some challenging examples where misalignment or texture distortion occurs.
 
 ## ⚠️ Limitations
 
-- Fine garment textures may be lost
-- Boundary artifacts in extreme poses
-- Fixed low-resolution input
-- Performance drops on traditional garments
+- Fine garment textures may be lost  
+- Boundary artifacts in extreme poses  
+- Fixed low-resolution input  
+- Performance drops on traditional garments  
 
 ---
 
@@ -114,3 +113,14 @@ Some challenging examples where misalignment or texture distortion occurs.
 
 For **research and academic use only**.  
 Dataset usage follows **VITON-HD (CC BY-NC 4.0)** licensing.
+
+---
+
+## 🛠️ Tools Used
+
+- **Programming Language:** Python  
+- **Deep Learning Framework:** PyTorch  
+- **Image Processing:** Pillow  
+- **Data Handling:** NumPy, Pandas  
+- **Visualization:** Matplotlib  
+  
