@@ -53,6 +53,21 @@ The model is trained and evaluated on the **VITON-HD dataset**.
 
 ---
 
+
+## ⚙️ Training Configuration
+<p align="center">
+  <img src="Images/gg.gif" width="500"/>
+</p>
+
+
+- **Optimizer:** Adam  
+- **Epochs:** 150  
+- **Learning Rate:** 1e-3 → 1e-5  
+- **Input Resolution:** 224 × 224  
+- **GPU:** NVIDIA RTX 3050 (4GB VRAM)
+
+---
+
 ## 📊 Results
 
 ### 🔢 Quantitative Results
@@ -90,19 +105,6 @@ Some challenging examples where misalignment or texture distortion occurs.
 
 ---
 
-## ⚙️ Training Configuration
-<p align="center">
-  <img src="Images/gg.gif" width="500"/>
-</p>
-
-
-- **Optimizer:** Adam  
-- **Epochs:** 150  
-- **Learning Rate:** 1e-3 → 1e-5  
-- **Input Resolution:** 224 × 224  
-- **GPU:** NVIDIA RTX 3050 (4GB VRAM)
-
----
 
 ## ⚠️ Limitations
 
