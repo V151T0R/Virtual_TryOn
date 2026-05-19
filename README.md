@@ -95,16 +95,6 @@ Some challenging examples where misalignment or texture distortion occurs.
 
 ---
 
-
-## ⚠️ Limitations
-
-- Fine garment textures may be lost  
-- Boundary artifacts in extreme poses  
-- Fixed low-resolution input  
-- Performance drops on traditional garments  
-
----
-
 ## 📜 License
 
 For **research and academic use only**.  
