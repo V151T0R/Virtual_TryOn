@@ -17,16 +17,6 @@ The model is trained and evaluated on the **VITON-HD dataset**.
 
 ---
 
-## 🧠 Key Contributions
-
-- Multi U-Net based virtual try-on architecture  
-- Self-Excitation (SE) blocks for channel-wise feature recalibration  
-- End-to-end image-to-image translation  
-- Lightweight and computationally efficient  
-- Evaluated using SSIM, LPIPS, and FID  
-
----
-
 ## 🏗️ Architecture
 
 - U-Net encoder–decoder with skip connections  
@@ -35,7 +25,7 @@ The model is trained and evaluated on the **VITON-HD dataset**.
 
 <p align="center">
   <img src="Images/Model architecture (1).png" width="600"/>
-  <img src="Images/simplerdia.png" width="600"/>
+  
 </p>
 
 ---
