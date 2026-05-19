@@ -92,8 +92,10 @@ Some challenging examples where misalignment or texture distortion occurs.
 
 ## ⚙️ Training Configuration
 <p align="center">
-  <img src="Images/gg.gif" width="250"/>
+  <img src="Images/gg.gif" width="500"/>
 </p>
+
+
 - **Optimizer:** Adam  
 - **Epochs:** 150  
 - **Learning Rate:** 1e-3 → 1e-5  
