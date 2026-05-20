@@ -18,20 +18,6 @@ The system balances **structural alignment**, **identity preservation**, and **c
   
 </p>
 
----
-
-## 📂 Dataset
-
-**VITON-HD** (CVPR 2021)
-
-| Attribute | Value |
-|---------|------|
-| Number of Image Pairs | 13,679 |
-| Train / Test Split | 11,647 / 2,032 |
-| Image Resolution | 1024 × 768 |
-| License | CC BY-NC 4.0 |
-
----
 
 
 ## ⚙️ Training Configuration
