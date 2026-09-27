@@ -20,12 +20,12 @@ The system balances **structural alignment**, **identity preservation**, and **c
 
 
 
-## ⚙️ Training Configuration
+##  Training Timelaps
 <p align="center">
   <img src="Images/gg.gif" width="500"/>
 </p>
 
-
+## ⚙️ Training Configuration
 - **Optimizer:** Adam  
 - **Epochs:** 150  
 - **Learning Rate:** 1e-3 → 1e-5  
